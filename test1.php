@@ -16,6 +16,15 @@
 		<h1>
 		hello world
 		</h1>
-		<a href="index.html">click</a>
+		<a href="index.html">click</a><br>
+		<a href="https://github.com/abdessadekbirama/websites/">click2</a>
+	<?php
+echo "hello";
+?>
+
+
+
+</body>
+</body>
 </body>
 </html>
