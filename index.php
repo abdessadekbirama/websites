@@ -11,7 +11,7 @@
 				Hello, World!
 		</h1>
 	<?php
-header("location:articles.php");
+echo "hhhhh" ;
 
 ?>
 
